@@ -9,19 +9,19 @@ A curated list of amazingly arduino stater kit list
   - [Motor](#motor)
   - [Display](#display)
   - [Sensors](sensors)
-     - [Temperature Sensor](#Temperature_Sensor)
-     - [Proximity Sensor](#Proximity_Sensor)
+     - [Temperature Sensor](#Temperature Sensor)
+     - [Proximity Sensor](#Proximity Sensor)
      - [Accelerometer](#Accelerometer)
-     - [IR Sensor (Infrared Sensor)](#IR_Sensor)
-     - [Pressure Sensor](#Pressure_Sensor)
-     - [Light Sensor](#Light_Sensor)
-     - [Ultrasonic Sensor](#Ultrasonic_Sensor)
-     - [Smoke Gas and Alcohol Sensor](#Smoke_Gas_and_Alcohol_Sensor)
-     - [Touch Sensor](#Touch_Sensor)
-     - [Color Sensor](#Color_Sensor)
-     - [Humidity Sensor](#Humidity_Sensor)
-     - [Tilt Sensor](#Tilt_Sensor)
-     - [Flow and Level Sensor](#Flow_and_Level)
+     - [IR Sensor (Infrared Sensor)](#IR Sensor)
+     - [Pressure Sensor](#Pressure Sensor)
+     - [Light Sensor](#Light Sensor)
+     - [Ultrasonic Sensor](#Ultrasonic Sensor)
+     - [Smoke Gas and Alcohol Sensor](#Smoke Gas and Alcohol Sensor)
+     - [Touch Sensor](#Touch Sensor)
+     - [Color Sensor](#Color Sensor)
+     - [Humidity Sensor](#Humidity Sensor)
+     - [Tilt Sensor](#Tilt Sensor)
+     - [Flow and Level Sensor](#Flow and Level)
   - [Integrated Circuit(IC)](#ic)
   - [Development Board](#db)
   - [Chip](#chip)
@@ -40,19 +40,19 @@ A curated list of amazingly arduino stater kit list
 ## Display
 
 ## Sensors
- * ## Temperature Sensor
- * ## Proximity Sensor
- * ## Accelerometer
- * ## IR Sensor (Infrared Sensor)
- * ## Pressure Sensor
- * ## Light Sensor
- * ## Ultrasonic Sensor
- * ## Smoke, Gas and Alcohol Sensor
- * ## Touch Sensor
- * ## Color Sensor
- * ## Humidity Sensor
- * ## Tilt Sensor
- * ## Flow and Level Sensor
+ * #### Temperature Sensor
+ * #### Proximity Sensor
+ * #### Accelerometer
+ * #### IR Sensor (Infrared Sensor)
+ * #### Pressure Sensor
+ * #### Light Sensor
+ * #### Ultrasonic Sensor
+ * #### Smoke, Gas and Alcohol Sensor
+ * #### Touch Sensor
+ * #### Color Sensor
+ * #### Humidity Sensor
+ * #### Tilt Sensor
+ * #### Flow and Level Sensor
 
 
 ## Integrated Circuit(IC)
