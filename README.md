@@ -8,30 +8,47 @@ A curated list of amazingly arduino stater kit list
   - [Switch](#switch)
   - [Motor](#motor)
   - [Display](#display)
+  - [Sensors](sensors)
   - [Integrated Circuit(IC)](#ic)
-	- [Development Board](#db)
+  - [Development Board](#db)
   - [Chip](#chip)
   - [Forum](#forum)
   - [Books](#books)
   - [Contributing](#contributing)
 
-##Register
+## Register
 
-##Capasitor
+## Capasitor
 
-##Switch
+## Switch
 
-##Motor
+## Motor
 
-##Display
+## Display
 
-##Integrated Circuit(IC)
+## Sensors
+	- [Temperature Sensor](#Temperature_Sensor)
+ - [Proximity Sensor](#Proximity_Sensor)
+ - [Accelerometer](#Accelerometer)
+ - [IR Sensor (Infrared Sensor)](#IR_Sensor)
+ - [Pressure Sensor](#Pressure_Sensor)
+ - [Light Sensor](#Light_Sensor)
+ - [Ultrasonic Sensor](#Ultrasonic_Sensor)
+ - [Smoke, Gas and Alcohol Sensor](#Smoke_Gas_and_Alcohol Sensor)
+ - [Touch Sensor](#Touch_Sensor)
+ - [Color Sensor](#Color_Sensor)
+ - [Humidity Sensor](#Humidity_Sensor)
+ - [Tilt Sensor](#Tilt_Sensor)
+ - [Flow and Level Sensor](#Flow_and_Level)
 
-##Development Board
 
-##Chip
+## Integrated Circuit(IC)
 
-##Forum
+## Development Board
+
+## Chip
+
+## Forum
 
 ## Books
 
