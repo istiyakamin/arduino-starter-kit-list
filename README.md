@@ -3,8 +3,8 @@ A curated list of amazingly arduino stater kit list
 
 
 - [Arduino Starter Kit List](#kit-list)
-	- [Registor](#registor)
-	- [Capasitor](#capasitor)
+  - [Registor](#registor)
+  - [Capasitor](#capasitor)
   - [Switch](#switch)
   - [Motor](#motor)
   - [Display](#display)
@@ -27,7 +27,7 @@ A curated list of amazingly arduino stater kit list
 ## Display
 
 ## Sensors
-	- [Temperature Sensor](#Temperature_Sensor)
+ - [Temperature Sensor](#Temperature_Sensor)
  - [Proximity Sensor](#Proximity_Sensor)
  - [Accelerometer](#Accelerometer)
  - [IR Sensor (Infrared Sensor)](#IR_Sensor)
